@@ -126,7 +126,3 @@ input_data = {
 [Churn Modelling Dataset](https://www.kaggle.com/datasets/shubh0799/churn-modelling) — 10,000 bank customer records with 14 features.
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
